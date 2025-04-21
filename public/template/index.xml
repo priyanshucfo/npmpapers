@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Demo on CollectionUI</title><link>/template/</link><description>Recent content in Demo on CollectionUI</description><generator>Hugo</generator><language>en</language><copyright>Copyright (c) 2020-2024 CollectionUI</copyright><lastBuildDate>Sun, 02 Feb 2025 19:32:07 +0530</lastBuildDate><atom:link href="/template/index.xml" rel="self" type="application/rss+xml"/><item><title>Templates</title><link>/template/demo/</link><pubDate>Sun, 02 Feb 2025 19:32:07 +0530</pubDate><guid>/template/demo/</guid><description>&lt;div class="max-w-4xl mx-auto px-6 py-16 text-gray-900">
+ &lt;!-- Header -->
+ &lt;div class="text-center">
+ &lt;h1 class="text-5xl font-extrabold">Templates&lt;/h1>
+ &lt;p class="text-lg text-gray-600 mt-3">
+ A collection of pre-built UI templates using CollectionUI. 
+ 🚀 &lt;strong>Coming Soon...&lt;/strong>
+ &lt;/p></description></item></channel></rss>

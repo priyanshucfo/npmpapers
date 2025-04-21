@@ -1,0 +1,32 @@
+[en]
+  languageName = "English"
+  contentDir = "content/en"
+  weight = 10
+  [en.params]
+    languageISO = "EN"
+    languageTag = "en-US"
+    footer = 'Developed By <a class="text-muted" href="https://callkarlebhai.com/">Priyanshu</a>'
+    alertText = '<a class="alert-link stretched-link fw-normal" href="/blog/post/">CollectionUI published!</a>'
+
+[de]
+  languageName = "German"
+  contentDir = "content/de"
+  weight = 15
+  [de.params]
+    languageISO = "DE"
+    languageTag = "de-DE"
+    footer = 'Gebaut mit <a class="text-muted" href="https://xyz.com/">CollectionUI</a>'
+    alertText = 'Neue Version ist da! <a class="alert-link stretched-link" href="https://up.bihar">CollectionUI</a>'
+
+[nl]
+  languageName = "Nederlands"
+  contentDir = "content/nl"
+  weight = 20
+  [nl.params]
+    languageISO = "NL"
+    languageTag = "nl-NL"
+    titleAddition = "Modern UI components"
+    description = "hard."
+    titleHome = "collectionui"
+    footer = 'Mogelijk gemaakt door <a href="https://www.x.com/">y</a>, <a href="https://z.po/">p</a>, en <a href="https://r.r/">CollectionUI</a>'
+    alertText = 'hi<a class="alert-link stretched-link" href="https://xpbeta.com">CollectionUI</a>'
